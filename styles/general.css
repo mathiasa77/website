@@ -1,12 +1,3 @@
-body {
-    margin: 0;
-    background-image: url("/media-all/home-media/jupiter-solo.jpeg");
-    background-size: 100%;
-    /* background-position: center; */
-    background-attachment: fixed;
-    font-family: 'Century Gothic',sans-serif;
-}
-
 .link-styles {
     color: white;
     text-decoration: none;
