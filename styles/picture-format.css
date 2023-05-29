@@ -61,14 +61,14 @@
 
 .img-half-3 {
     width: 300px;
-    height: fit-content;
+    height: 167px;
     object-fit: cover;
     border-radius: 10%;
 }
 
 .img-one-third {
     width: 300px;
-    height: fit-content;
+    height: 220px;
     object-fit: cover;
     border-radius: 10%;
     flex: 1;
@@ -76,7 +76,7 @@
 
 .img-one-third-2 {
     width: 200px;
-    height: fit-content;
+    height: 200px;
     object-fit: cover;
     border-radius: 10%;
     flex: 1;
@@ -110,7 +110,7 @@
 
 .img-quarter-vert {
     width: 180px;
-    height: fit-content;
+    height: 245px;
     object-fit: cover;
     border-radius: 10%;
     flex: 1;
@@ -168,7 +168,7 @@
 
 .img-wide-banner-2 {
     width: 600px;
-    height: fit-content;
+    height: 70px;
     border-radius: 20px;
     transition: transform 0.2s;
 }
