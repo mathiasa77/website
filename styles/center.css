@@ -1,0 +1,80 @@
+.sudo-header {
+    height: 120px;
+    /* margin-top: 1px; */
+    border-width: 1px;
+    border-style: solid;
+    border-color: transparent;
+    /* display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center; */
+}
+
+.content {
+    height: fit-content;
+    display: flex;
+    flex-direction: row;
+}
+
+.empty-sides {
+    flex: 1;
+    background-color: transparent;
+}
+
+.info-card {
+    width: 450px;
+    height: fit-content;
+    /* padding: 40px; */
+    background: rgba(0, 0, 0, 0.6);
+    margin-top: 10px;
+    padding: 7px;
+    color: white;
+    text-align: center;
+}
+
+.content-card {
+    width: 650px;
+    height: fit-content;
+    /* padding: 40px; */
+    background: rgba(0, 0, 0, 0.6);
+    margin-top: 30px;
+    color: white;
+    text-align: center;
+    border-top: solid;
+    border-bottom: solid;
+    border-color: white;
+    border-width: 1px;
+}
+
+.content-card-wide {
+    width: 1000px;
+    height: fit-content;
+    /* padding: 40px; */
+    background: rgba(0, 0, 0, 0.6);
+    margin-top: 30px;
+    color: white;
+    text-align: center;
+    border-top: solid;
+    border-bottom: solid;
+    border-color: white;
+    border-width: 1px;
+}
+
+.ending-card {
+    width: 650px;
+    height: fit-content;
+    /* padding: 40px; */
+    background: rgba(0, 0, 0, 0.6);
+    margin: 30px;
+    color: white;
+    text-align: center;
+    border-top: solid;
+    border-bottom: solid;
+    border-color: white;
+    border-width: 1px;
+}
+
+.img-half-stack {
+    width: 200px;
+    flex: 1;
+}

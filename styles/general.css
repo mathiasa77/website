@@ -1,0 +1,67 @@
+body {
+    margin: 0;
+    background-image: url("/media-all/home-media/jupiter-solo.jpeg");
+    background-size: 100%;
+    /* background-position: center; */
+    background-attachment: fixed;
+    font-family: 'Century Gothic',sans-serif;
+}
+
+.link-styles {
+    color: white;
+    text-decoration: none;
+}
+
+.id-hyperlinks {
+    color: white;
+    margin-inline: 10px;
+}
+
+.h1-short {
+    margin-bottom: 10px;
+}
+
+h3 {
+    margin-block: 5px;
+}
+
+h4 {
+    margin-block: 5px;
+}
+
+.p1 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.p2 {
+    margin: 10px;
+}
+
+.p3 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-inline: 10px;
+}
+
+.p4 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-inline: 10px;
+}
+
+.table-1 {
+    font-family: Arial, sans-serif;
+    border-collapse: collapse;
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    
+}
+
+td, th {
+    border:1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
