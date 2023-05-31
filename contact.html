@@ -69,7 +69,6 @@
           <form
             action="https://formsubmit.co/armentamathias@gmail.com"
             method="POST"
-            target="_blank"
           >
             <div class="input-row">
               <div class="input-group">
@@ -82,7 +81,7 @@
                 />
               </div>
               <div class="input-group">
-                <label>Phone</label>
+                <label>Phone (Optional)</label>
                 <input
                   type="text"
                   name="Phone Number"
@@ -122,10 +121,17 @@
                 <button type="submit" class="button2">SEND</button>
               </div>
             </div>
+            <input type="hidden" name="_cc" value="mathias.berkeley.edu" />
+            <input type="hidden" name="_template" value="table" />
             <input
               type="hidden"
               name="_next"
               value="https://mathiasa77.github.io/website/contact-confirmation.html"
+            />
+            <input
+              type="hidden"
+              name="_autoresponse"
+              value="Your Message Has Been Received!"
             />
           </form>
         </div>
